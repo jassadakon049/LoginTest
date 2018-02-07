@@ -34,4 +34,4 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }//end method onCreate
-}//end class
+}
